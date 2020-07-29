@@ -8,22 +8,22 @@
         </policy>
         <policy id="script-src">
             <values>
-                <value id="payu" type="host">*.payments-amazon.com</value>
+                <value id="payu" type="host">secure.payu.com</value>
             </values>
         </policy>
         <policy id="img-src">
             <values>
-                <value id="payu" type="host">d3sbl0c71oxeok.cloudfront.net</value>
+                <value id="payu" type="host">secure.payu.com</value>
             </values>
         </policy>
         <policy id="form-action">
             <values>
-                <value id="payu" type="host">*.amazon.com</value>
+                <value id="payu" type="host">secure.payu.com</value>
             </values>
         </policy>
         <policy id="frame-src">
             <values>
-                <value id="payu" type="host">*.amazon.com</value>
+                <value id="payu" type="host">secure.payu.com</value>
             </values>
         </policy>
     </policies>
